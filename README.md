@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arnav Shah</h1>
-<h3 align="center">Indian, interested in programming</h3>
 
-- 🌱 I’m currently learning **Generative AI/ LLMs/ Deep Learning**
+My featured projects-
+| Project| Domain | Description | Status | 
+|----------|----------|----------|----------|
+|| Research (UG) | Physics Informed Neural Networks | In progress |
+|[stock-analyst](https://github.com/LlamaEdge/stock-analyst)| LLMs/RAG| A stock analyst chatbot to analyse US SEC Stock Reports| V1 Completed|
+|[dsa-visualizer](https://github.com/lazyperson1020/dsa_visualizer)| Software & CS Core| Manim based DSA visualizer | In progress|
+|| Web Development  | A tech news website to keep you updated | In progress |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
